@@ -2,7 +2,7 @@
 
 /* цвет сайта */ /* фон сайта */ /* переход цвет ссилки сайта */
 body {
-    background-image: url("тестова-структура-сайта/test.png");
+    background-image: url("/тестова-структура-сайта/test.png");
     background-color: purple;
 }
 
