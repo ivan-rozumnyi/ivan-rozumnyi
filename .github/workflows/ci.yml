@@ -1,0 +1,37 @@
+# Базовий workflow для GitHub Actions
+
+name: CI
+
+# Коли запускати workflow
+on:
+  # Запускається при push у гілку main
+  push:
+    branches: [ "main" ]
+
+  # Запускається при створенні pull request у main
+  pull_request:
+    branches: [ "main" ]
+
+  # Дозволяє запускати workflow вручну
+  workflow_dispatch:
+
+# Завдання workflow
+jobs:
+  build:
+    # Операційна система для запуску
+    runs-on: ubuntu-latest
+
+    # Кроки виконання
+    steps:
+      # Завантажує репозиторій
+      - uses: actions/checkout@v4
+
+      # Один рядок команди
+      - name: Запуск однієї команди
+        run: echo Привіт, світ!
+
+      # Кілька команд
+      - name: Запуск кількох команд
+        run: |
+          echo Тут можна додати збірку,
+          echo тестування та деплой проєкту
