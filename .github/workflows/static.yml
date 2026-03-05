@@ -1,0 +1,45 @@
+# Проста робота для публікації статичного контенту на GitHub Pages
+name: Публікація статичного сайту на Pages
+
+on:
+  # Виконується при пуші у головну гілку
+  push:
+    branches: ["main"]
+
+  # Дозволяє запускати роботу вручну у вкладці Actions
+  workflow_dispatch:
+
+# Права для токена GITHUB_TOKEN для публікації на Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Дозволяє лише одночасне розгортання
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  # Одна робота для розгортання
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Клонування репозиторію
+        uses: actions/checkout@v4
+
+      - name: Підготовка GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Завантаження артефактів
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Завантажуємо весь репозиторій
+          path: '.'
+
+      - name: Публікація на GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
