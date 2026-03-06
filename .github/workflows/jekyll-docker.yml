@@ -1,0 +1,21 @@
+name: CI для сайту на Jekyll  # Назва workflow
+
+on:
+  push:
+    branches: [ "main" ]       # Запуск при пуші в гілку main
+  pull_request:
+    branches: [ "main" ]       # Запуск при PR у гілку main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest      # Використовуємо останній Ubuntu
+
+    steps:
+    - uses: actions/checkout@v4  # Клонуємо репозиторій
+    - name: Збірка сайту у контейнері jekyll/builder
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll \
+        -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+        # Робимо права на всі файли та будуємо сайт
