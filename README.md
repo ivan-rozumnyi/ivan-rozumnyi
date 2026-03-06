@@ -7,16 +7,16 @@
 Беру приклади з різних сайтів і пробую сам — іноді виходить класно, іноді ні 😅
 
 ## 🔹 Сторінки для навчання
-- HTML-CSS.co.ua  
-- CSS.in.ua  
-- W3Schools.UA.github.io/html/index.html  
-- W3Schools.UA.github.io/css/index.html  
-- W3Schools.UA.github.io/colors/colors_picker.html  
-- divtable.com/generator  
-- html-css-js.com/html  
-- html-css-js.com/css  
-- W3Schools.com/html/default.asp  
-- W3Schools.com/css/default.asp  
+- html-css.co.ua
+- css.in.ua
+- w3schoolsua.github.io/html/index.html
+- w3schoolsua.github.io/css/index.html
+- w3schoolsua.github.io/colors/colors_picker.html
+- divtable.com/generator
+- html-css-js.com/html
+- html-css-js.com/css
+- w3schools.com/html/default.asp
+- w3schools.com/css/default.asp
 
 ## 🔹 Fun fact
 Я просто звичайний учень, який робить сайти для лабораторних робіт 😄  
