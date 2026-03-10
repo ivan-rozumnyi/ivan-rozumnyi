@@ -8,6 +8,7 @@
 
 ## Сторінки для навчання
 - [html-css.co.ua](https://html-css.co.ua)
+- [html.in.ua](https://html.in.ua)
 - [css.in.ua](https://css.in.ua)
 - [w3schoolsua.github.io/html/index.html](https://w3schoolsua.github.io/html/index.html)
 - [w3schoolsua.github.io/css/index.html](https://w3schoolsua.github.io/css/index.html)

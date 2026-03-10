@@ -9,7 +9,7 @@
 - Писати коментарі, якщо щось незрозуміло  
 
 ## Мій процес
-- Беру приклади з різних сайтів (w3schoolsua.github.io/html/index.html, html-css-js.com/html та інші)  
+- Беру приклади з різних сайтів (w3schoolsua.github.io/html/index.html, html-css.co.ua, divtable.com/generator та інші)  
 - Пробую сам, іноді виходить добре, іноді ні  
 - Вчуся на помилках і стараюсь покращувати код  
 
