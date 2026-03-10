@@ -65,23 +65,27 @@ footer {
 }
 
 /* текст с обичной ссилкой */
-a:link {
+
+/* a:link {
     color: black;
-}
+} */
 
 /* текст при посещенние ссилки */
-a:visited {
+
+/* a:visited {
     color: white;
-}
+} */
 
 /* текст при нажатии мишки */
-a:active {
+
+/* a:active {
     color: purple;
-}
+} */
 
 /* текст при наведения мишкой */
-a:hover {
+
+/* a:hover {
     color: green;
-}
+} */
 
 /* конец структури сайта */
