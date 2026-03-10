@@ -1,5 +1,4 @@
 # Базовий workflow для GitHub Actions
-
 name: CI
 
 # Коли запускати workflow
