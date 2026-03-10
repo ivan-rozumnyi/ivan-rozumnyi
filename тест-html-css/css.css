@@ -41,8 +41,19 @@ em {
 }
 
 /* цвет для текста */
-.text {
+.text-test {
     color: red;
+}
+
+/* цвет для текста */
+.text-test {
+    color: brown;
+}
+
+
+/* цвет для текста */
+p {
+    color: greenyellow;
 }
 
 /* цвет для текста */
