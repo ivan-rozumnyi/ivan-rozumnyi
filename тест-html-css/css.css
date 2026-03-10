@@ -11,9 +11,6 @@ body {
     /* убрать повтор фон сайта */
     background-repeat: no-repeat;
 
-    /* цвет для главного текста */
-    color: black;
-
     /* фон для сайта посередине */
     background-position: center;
 
@@ -22,6 +19,9 @@ body {
 
     /* текст посередине для сайта */
     text-align: center;
+
+    /* цвет для главного текста */
+    color: black;
 }
 
 /* фон сайта */
@@ -46,10 +46,9 @@ em {
 }
 
 /* цвет для текста */
-.text-test {
+.text-test1 {
     color: brown;
 }
-
 
 /* цвет для текста */
 p {
