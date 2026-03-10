@@ -3,7 +3,7 @@
 /* цвет сайта */ /* фон сайта */ /* переход цвет ссилки сайта */
 body {
     background-image: url("../тестова-структура-сайта/test.png");
-    background-color: purple;
+    background-color: rgb(121, 121, 121);
 }
 
 /* конец структури сайта */
