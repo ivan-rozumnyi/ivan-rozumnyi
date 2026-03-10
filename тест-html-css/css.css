@@ -3,7 +3,9 @@
 /* цвет сайта */ /* фон сайта */ /* переход цвет ссилки сайта */
 body {
     /* фон для сайта */
-    background-image: url("../тестова-структура-сайта/test.png");
+    background-image: url("##/тестова-структура-сайта/test.png");
+
+    /* background-image: url("../тестова-структура-сайта/test.png"); */
 
     /* фон для сайта без png картинки */
     background-color: rgb(121, 121, 121);
@@ -38,6 +40,11 @@ a {
 /* цвет для текста */
 em {
     color: purple;
+}
+
+h2 {
+    color: aqua; 
+    background-color: black
 }
 
 /* цвет для текста */
