@@ -4,6 +4,7 @@
 body {
     background-image: url("../тестова-структура-сайта/test.png");
     background-color: rgb(121, 121, 121);
+    background-repeat: no-repeat;
 }
 
 /* конец структури сайта */
