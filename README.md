@@ -18,7 +18,7 @@
 - [w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
 - [w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
 
-## Fun fact
+## Цікавий факт
 Я просто звичайний учень, який робить сайти для лабораторних робіт 😄  
 
 ## MIT Ліцензія
