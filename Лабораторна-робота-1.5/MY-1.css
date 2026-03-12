@@ -1,2 +1,116 @@
 @charset "utf8";
-.pp {color: #3333FF; font: italic bold 16pt}
+
+/*  */
+body {
+    color: #000000;
+    
+    background-color: #CAFF9A;
+    
+    font-family: Arial, sans-serif;
+    
+    font-size: 14pt;
+}
+
+/*  */
+h1 {
+    color: #6633ff;
+
+    font-style: italic;
+
+    font-weight: bold;
+}
+
+h2 {
+    color: #3366cc;
+
+    font-style: italic;
+
+    font-weight: bold;
+}
+
+h3 {
+    color: #003399; 
+
+    font-style: italic; 
+
+    font-weight: bold;
+}
+
+h4 {
+    color: #000066; 
+
+    font-style: italic; 
+
+    font-weight: bold;
+}
+
+/*  */
+.pp {
+    color: #3333FF; 
+
+    font-style: italic; 
+
+    font-weight: bold; 
+
+    font-size: 16pt;
+}
+
+/*  */
+b.bb {
+    color: #000000; 
+    font-style: italic; 
+    font-size: 14pt;
+}
+
+/*  */
+a:link {
+    color: #9966FF;
+}
+
+a:visited {
+    color: #6600cc;
+}
+
+a:hover {
+    color: red;
+}
+
+/*  */
+.menu1 {
+    font-weight: bold;
+
+    font-size: 18px;
+}
+
+.menu2 {
+    font-weight: bold;
+
+    font-size: 16px;
+}
+
+.menu3 {
+    font-weight: bold;
+
+    font-size: 14px;
+}
+
+.menu4 {
+    font-weight: bold;
+
+    font-size: 12px;
+}
+
+/*  */
+table {
+    border-collapse: collapse; 
+    width: 60%;
+}
+
+td, th {
+    border: 1px solid black; 
+    padding: 8px;
+}
+
+th {
+    background-color: #99ffcc;
+}
