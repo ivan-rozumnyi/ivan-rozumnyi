@@ -1,6 +1,6 @@
 @charset "utf8";
 
-/*  */
+/* фон сайта */
 body {
     color: #000000;
     
@@ -11,7 +11,7 @@ body {
     font-size: 14pt;
 }
 
-/*  */
+/* цвет для текста и фон текста*/
 h1 {
     color: #6633ff;
 
@@ -44,7 +44,7 @@ h4 {
     font-weight: bold;
 }
 
-/*  */
+/* цвет для текста */
 .pp {
     color: #3333FF; 
 
@@ -55,27 +55,29 @@ h4 {
     font-size: 16pt;
 }
 
-/*  */
+/* цвет для текста */
 b.bb {
     color: #000000; 
     font-style: italic; 
     font-size: 14pt;
 }
 
-/*  */
+/* текст с обичной ссилкой */
 a:link {
     color: #9966FF;
 }
 
+/* текст при посещенние ссилки */
 a:visited {
     color: #6600cc;
 }
 
+/* текст при наведения мишкой */
 a:hover {
     color: red;
 }
 
-/*  */
+/* текст для меню */
 .menu1 {
     font-weight: bold;
 
@@ -100,7 +102,7 @@ a:hover {
     font-size: 12px;
 }
 
-/*  */
+/* текст и таблица для меню */
 table {
     border-collapse: collapse; 
     width: 60%;
