@@ -23,6 +23,7 @@
 - [divtable.com/generator](https://divtable.com/generator)
 - [html-css-js.com/html](https://html-css-js.com/html)
 - [html-css-js.com/css](https://html-css-js.com/css)
+- [html-css-js.com/js](https://html-css-js.com/js)
 - [w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
 - [w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
 
