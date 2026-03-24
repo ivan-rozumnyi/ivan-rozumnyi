@@ -3,7 +3,7 @@ function print(text) {
     document.getElementById("output").innerHTML += text + "<br>";
 }
 
-// 
+// пример площа круга
 var R = 5;
 var S_circle = Math.PI * R * R;
 
@@ -12,7 +12,7 @@ print("Радіус = " + R);
 print("Площа = " + S_circle.toFixed(2));
 
 
-// 
+// пример площа трапеції
 var a = 6;
 var b = 10;
 var h = 4;
@@ -24,7 +24,7 @@ print("a = " + a + ", b = " + b + ", h = " + h);
 print("Площа = " + S_trap);
 
 
-// 
+// пример правильний n-кутник
 var n = 6;
 var R2 = 5;
 
@@ -39,7 +39,7 @@ print("Периметр = " + P.toFixed(2));
 print("Площа = " + S_polygon.toFixed(2));
 
 
-// 
+// пример обчислення виразу
 var x = 2;
 
 var y = (8 * x * x + 12) / (7 * x * x + 10);
