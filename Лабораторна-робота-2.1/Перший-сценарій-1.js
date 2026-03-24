@@ -4,6 +4,7 @@ function print(text) {
 }
 
 // пример площа круга
+
 var R = 5;
 var S_circle = Math.PI * R * R;
 
