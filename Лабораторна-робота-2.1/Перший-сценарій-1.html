@@ -75,16 +75,47 @@ document.write("Площа = " + S_circle.toFixed(2))
 
 <!-- #### -->
 
-<!-- начало структури 1 -->
+<!-- начало структури 2 -->
 <script align="center">var a = 6;
 var b = 10;
 var h = 4;
 var S_trap = (a + b) / 2 * h;
-print("<h3>Площа трапеції</h3>");
-print("a = " + a + ", b = " + b + ", h = " + h);
-print("Площа = " + S_trap);
+document.write("<h3>Площа трапеції</h3>");
+document.write("a = " + a + ", b = " + b + ", h = " + h);
+document.write("Площа = " + S_trap)
 </script>
 <!-- конец структури 2 -->
+
+<!-- #### -->
+
+<!-- #### -->
+
+<!-- начало структури 3 -->
+<script align="center">var n = 6;
+var R2 = 5;
+var side = 2 * R2 * Math.tan(Math.PI / n);
+var P = n * side;
+var S_polygon = (P * R2) / 2;
+document.write("<h3>Правильний n-кутник</h3>");
+document.write("n = " + n + ", R = " + R2);
+document.write("Сторона = " + side.toFixed(2));
+document.write("Периметр = " + P.toFixed(2));
+document.write("Площа = " + S_polygon.toFixed(2))
+</script>
+<!-- конец структури 3 -->
+
+<!-- #### -->
+
+<!-- #### -->
+
+<!-- начало структури 4 -->
+<script align="center">var x = 2;
+var y = (8 * x * x + 12) / (7 * x * x + 10);
+print("<h3>Обчислення виразу</h3>");
+print("x = " + x);
+print("Результат = " + y.toFixed(4))
+</script>
+<!-- конец структури 4 -->
 
 <!-- #### -->
 

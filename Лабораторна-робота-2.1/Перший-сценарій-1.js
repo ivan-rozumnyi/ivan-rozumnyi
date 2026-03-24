@@ -1,4 +1,5 @@
-// 
+//
+
 function print(text) {
     document.getElementById("output").innerHTML += text + "<br>";
 }
@@ -27,25 +28,27 @@ function print(text) {
 
 
 // пример правильний n-кутник
-var n = 6;
-var R2 = 5;
 
-var side = 2 * R2 * Math.tan(Math.PI / n);
-var P = n * side;
-var S_polygon = (P * R2) / 2;
+// var n = 6;
+// var R2 = 5;
 
-print("<h3>Правильний n-кутник</h3>");
-print("n = " + n + ", R = " + R2);
-print("Сторона = " + side.toFixed(2));
-print("Периметр = " + P.toFixed(2));
-print("Площа = " + S_polygon.toFixed(2));
+// var side = 2 * R2 * Math.tan(Math.PI / n);
+// var P = n * side;
+// var S_polygon = (P * R2) / 2;
+
+// print("<h3>Правильний n-кутник</h3>");
+// print("n = " + n + ", R = " + R2);
+// print("Сторона = " + side.toFixed(2));
+// print("Периметр = " + P.toFixed(2));
+// print("Площа = " + S_polygon.toFixed(2));
 
 
 // пример обчислення виразу
-var x = 2;
 
-var y = (8 * x * x + 12) / (7 * x * x + 10);
+// var x = 2;
 
-print("<h3>Обчислення виразу</h3>");
-print("x = " + x);
-print("Результат = " + y.toFixed(4));
+// var y = (8 * x * x + 12) / (7 * x * x + 10);
+
+// print("<h3>Обчислення виразу</h3>");
+// print("x = " + x);
+// print("Результат = " + y.toFixed(4));
