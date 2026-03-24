@@ -14,6 +14,7 @@
 - [html-css.co.ua/dovidnuk-css-atrubytiv/](https://html-css.co.ua/dovidnuk-css-atrubytiv/)
 - [htmlcheatsheet.com](https://htmlcheatsheet.com)
 - [htmlcheatsheet.com/css](https://htmlcheatsheet.com/css)
+- [htmlcheatsheet.com/js](https://htmlcheatsheet.com/js)
 - [w3schoolsua.github.io/html/index.html](https://w3schoolsua.github.io/html/index.html)
 - [w3schoolsua.github.io/css/index.html](https://w3schoolsua.github.io/css/index.html)
 - [w3schoolsua.github.io/colors/colors_picker.html](http://w3schoolsua.github.io/colors/colors_picker.html)
