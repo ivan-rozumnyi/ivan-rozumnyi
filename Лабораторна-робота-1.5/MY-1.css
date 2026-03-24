@@ -12,34 +12,10 @@ body {
 }
 
 /* цвет для текста*/
-h1 {
-    color: #6633ff;
-
-    font-style: italic;
-
-    font-weight: bold;
-}
-
 h2 {
     color: #3366cc;
 
     font-style: italic;
-
-    font-weight: bold;
-}
-
-h3 {
-    color: #003399; 
-
-    font-style: italic; 
-
-    font-weight: bold;
-}
-
-h4 {
-    color: #000066; 
-
-    font-style: italic; 
 
     font-weight: bold;
 }
