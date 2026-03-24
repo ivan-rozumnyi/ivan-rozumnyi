@@ -17,6 +17,7 @@
 - [htmlcheatsheet.com/js](https://htmlcheatsheet.com/js)
 - [w3schoolsua.github.io/html/index.html](https://w3schoolsua.github.io/html/index.html)
 - [w3schoolsua.github.io/css/index.html](https://w3schoolsua.github.io/css/index.html)
+- [w3schoolsua.github.io/js/index.html](https://w3schoolsua.github.io/js/index.html)
 - [w3schoolsua.github.io/colors/colors_picker.html](http://w3schoolsua.github.io/colors/colors_picker.html)
 - [divtable.com/table-styler](https://divtable.com/table-styler)
 - [divtable.com/generator](https://divtable.com/generator)
