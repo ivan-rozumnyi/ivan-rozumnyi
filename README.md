@@ -8,8 +8,10 @@
 
 ## Сторінки для навчання
 - [html-css.co.ua](https://html-css.co.ua)
-- [html.in.ua](https://html.in.ua)
 - [css.in.ua](https://css.in.ua)
+- [css.in.ua/html/tags](https://css.in.ua/html/tags)
+- [css.in.ua/css/properties](https://css.in.ua/css/properties)
+- [css.in.ua/js/objects](https://css.in.ua/js/objects)
 - [html-css.co.ua/dovidnuk-html-tags/](https://html-css.co.ua/dovidnuk-html-tags/)
 - [html-css.co.ua/dovidnuk-css-atrubytiv/](https://html-css.co.ua/dovidnuk-css-atrubytiv/)
 - [htmlcheatsheet.com](https://htmlcheatsheet.com)
