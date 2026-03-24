@@ -5,24 +5,25 @@ function print(text) {
 
 // пример площа круга
 
-var R = 5;
-var S_circle = Math.PI * R * R;
+// var R = 5;
+// var S_circle = Math.PI * R * R;
 
-print("<h3>Площа круга</h3>");
-print("Радіус = " + R);
-print("Площа = " + S_circle.toFixed(2));
+// print("<h3>Площа круга</h3>");
+// print("Радіус = " + R);
+// print("Площа = " + S_circle.toFixed(2));
 
 
 // пример площа трапеції
-var a = 6;
-var b = 10;
-var h = 4;
 
-var S_trap = (a + b) / 2 * h;
+// var a = 6;
+// var b = 10;
+// var h = 4;
 
-print("<h3>Площа трапеції</h3>");
-print("a = " + a + ", b = " + b + ", h = " + h);
-print("Площа = " + S_trap);
+// var S_trap = (a + b) / 2 * h;
+
+// print("<h3>Площа трапеції</h3>");
+// print("a = " + a + ", b = " + b + ", h = " + h);
+// print("Площа = " + S_trap);
 
 
 // пример правильний n-кутник
