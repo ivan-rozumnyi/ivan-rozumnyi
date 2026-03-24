@@ -26,6 +26,8 @@
 - [html-css-js.com/js](https://html-css-js.com/js)
 - [w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
 - [w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
+- [w3schools.com/java/default.asp](https://www.w3schools.com/java/default.asp)
+- [w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
 
 ## Цікавий факт
 Я просто звичайний учень, який робить сайти для лабораторних робіт.
