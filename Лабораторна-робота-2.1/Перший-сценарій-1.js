@@ -1,8 +1,8 @@
-//
-
+// начало структура для поиска сайта
 function print(text) {
     document.getElementById("output").innerHTML += text + "<br>";
 }
+// конец структура для поиска сайта
 
 // пример площа круга
 
