@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Мова JavaScript No1</title>
+    <title>Мова JavaScript No5</title>
 </head>
 <body bgcolor="#EEEEEE" text="black" link="blue">
 
-<h1 align="center">Мова JavaScript No1</h1>
+<h1 align="center">Мова JavaScript No5</h1>
 <hr>
 
 <!-- главная картинка -->
@@ -15,9 +15,18 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
-<!-- показивает дату и время -->
+<!-- показивает кнопку и действия -->
+<p>Натисніть кнопку:</p>
+
+<button onclick="myFunction()">Попробуй єто</button>
+
+<p id="demo">Текст, позначений demo</p>
+
 <script>
-document.write(Date());
+function myFunction() {
+    var carname = "Toyota";
+    document.getElementById("demo").innerHTML = carname;
+}
 </script>
 
 <!-- начало структура для поиска сайта -->
