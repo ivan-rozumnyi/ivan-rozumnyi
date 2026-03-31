@@ -3,4 +3,6 @@ function print(text) {
     document.getElementById("output").innerHTML += text + "<br>";
 }
 
+
+
 // закрито окно для примера
