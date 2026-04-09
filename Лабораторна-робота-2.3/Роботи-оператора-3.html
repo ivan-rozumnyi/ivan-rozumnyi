@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Роботи оператора No2</title>
+    <title>Роботи оператора No3</title>
 </head>
 <body bgcolor="#EEEEEE" text="black" link="blue">
 
-<h1 align="center">Роботи оператора No2</h1>
+<h1 align="center">Роботи оператора No3</h1>
 <hr>
 
 <!-- главная картинка -->
@@ -15,15 +15,24 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
-<!-- Оператора if..else -->
+<!-- Оператора switch -->
 <script>
-var x, у;
-x = prompt("Введіть значення x", "0");
-x = +x;
-if (x < 0) y = x + 10;
-else if (x > 5) y = 5 / x;
-else y = x * x + 4;
-alert("Функція f(" + x + ")=" + y);
+var trans;
+var beast = prompt("Введіть назву животного", "dog");
+switch (beast) {
+case "dog":
+trans = "собака";
+break;
+case "cat":
+trans = "кошка";
+break;
+case "cow":
+trans = "корова";
+break;
+default:
+trans = "невідома тварина"
+}
+alert(beast + " — " + trans);
 </script>
 
 <!-- начало структура для поиска сайта -->
