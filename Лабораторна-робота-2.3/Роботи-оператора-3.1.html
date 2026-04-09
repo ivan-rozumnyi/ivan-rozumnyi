@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Роботи оператора No4</title>
+    <title>Роботи оператора No3.1</title>
 </head>
 <body bgcolor="#EEEEEE" text="black" link="blue">
 
-<h1 align="center">Роботи оператора No4</h1>
+<h1 align="center">Роботи оператора No3.1</h1>
 <hr>
 
 <!-- главная картинка -->
@@ -15,18 +15,35 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
-<!-- Оператора for -->
+<!-- Оператора switch-case -->
 <script>
-var str = "";
-for (var i = 1; i <= 9; i++) {
-    str += i;
+var month = 7;
+var season;
+switch (month) {
+    case 12:
+    case 1:
+    case 2:
+        season = "зима";
+        break;
+    case 3:
+    case 4:
+    case 5:
+        season = "весна";
+        break;
+    case 6:
+    case 7:
+    case 8:
+        season = "літо";
+        break;
+    case 9:
+    case 10:
+    case 11:
+        season = "осінь";
+        break;
+    default:
+        season = "помилка";
 }
-alert(str);
-var str2 = "";
-for (var i = 9; i >= 1; i--) {
-    str2 += i;
-}
-alert(str2);
+alert(season);
 </script>
 
 <!-- начало структура для поиска сайта -->

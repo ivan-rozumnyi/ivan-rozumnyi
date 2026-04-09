@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Роботи оператора No4</title>
+    <title>Роботи оператора No2.1</title>
 </head>
 <body bgcolor="#EEEEEE" text="black" link="blue">
 
-<h1 align="center">Роботи оператора No4</h1>
+<h1 align="center">Роботи оператора No2.1</h1>
 <hr>
 
 <!-- главная картинка -->
@@ -15,18 +15,20 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
-<!-- Оператора for -->
+<!-- Оператора if..else if-else -->
 <script>
-var str = "";
-for (var i = 1; i <= 9; i++) {
-    str += i;
+var min = 25;
+if (min >= 0 && min < 15) {
+    alert("Перша чверть");
+} else if (min >= 15 && min < 30) {
+    alert("Друга чверть");
+} else if (min >= 30 && min < 45) {
+    alert("Третя чверть");
+} else if (min >= 45 && min < 60) {
+    alert("Четверта чверть");
+} else {
+    alert("Помилка");
 }
-alert(str);
-var str2 = "";
-for (var i = 9; i >= 1; i--) {
-    str2 += i;
-}
-alert(str2);
 </script>
 
 <!-- начало структура для поиска сайта -->
