@@ -17,18 +17,13 @@
 
 <!-- Оператора if..else if-else -->
 <script>
-var min = 25;
-if (min >= 0 && min < 15) {
-    alert("Перша чверть");
-} else if (min >= 15 && min < 30) {
-    alert("Друга чверть");
-} else if (min >= 30 && min < 45) {
-    alert("Третя чверть");
-} else if (min >= 45 && min < 60) {
-    alert("Четверта чверть");
-} else {
-    alert("Помилка");
-}
+var x, у;
+x = prompt("Введіть значення x", "0");
+x = +x;
+if (x < 0) y = x + 12;
+else if (x > 7) y = 7 / x;
+else y = x * x + 6;
+alert("Функція f(" + x + ")=" + y);
 </script>
 
 <!-- начало структура для поиска сайта -->
