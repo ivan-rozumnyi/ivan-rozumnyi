@@ -17,16 +17,11 @@
 
 <!-- Оператора for -->
 <script>
-var str = "";
-for (var i = 1; i <= 9; i++) {
-    str += i;
-}
-alert(str);
-var str2 = "";
-for (var i = 9; i >= 1; i--) {
-    str2 += i;
-}
-alert(str2);
+var f = 1;
+var x = prompt("Введіть число", "5");
+x = +x;
+for (var i = 1; i <= x; i++) { f = f * i; }
+alert(f);
 </script>
 
 <!-- начало структура для поиска сайта -->
