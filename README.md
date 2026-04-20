@@ -1,11 +1,3 @@
-# Привіт!
-Це мій GitHub, де я вчуся HTML, CSS та JavaScript.
-
-## Про мене
-Я звичайний учень.
-Роблю сайти для лабораторних і тренуюся з HTML, CSS та JavaScript.  
-Беру приклади з різних сайтів і пробую сам — іноді виходить класно, іноді ні.
-
 ## Сторінки для навчання
 - [html-css.co.ua](https://html-css.co.ua)
 - [css.in.ua](https://css.in.ua)
@@ -30,9 +22,6 @@
 - [w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
 - [w3schools.com/java/default.asp](https://www.w3schools.com/java/default.asp)
 - [w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
-
-## Цікавий факт
-Я просто звичайний учень, який робить сайти для лабораторних робіт.
 
 ## MIT Ліцензія
 Авторські права (c) 2026 Ivan Rozumnyi  
