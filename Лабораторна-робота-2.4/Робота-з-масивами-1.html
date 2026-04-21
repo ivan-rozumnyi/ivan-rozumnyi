@@ -15,21 +15,49 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
+<p>1. Видаліть з масиву <i>country</i> країни і збережете результат в масив
+continent (використовуйте метод
+<b>splice()</b>). </p>
+
+<p>2. Видаліть з масиву <i>animal</i> тварин не є птахами і збережете
+результат в масив <i>bird</i> (використовуйте
+метод <b>splice()</b>). </p>
+
+<p>3. З'єднайте отримані масиви в масив contibird і виведіть результат на
+екран (використовуйте метод
+<b>concat()</b>). </p>
+
+<p>4. Додайте в початок отриманого масиву елемент 'Северная Амеріка', а в
+кінець масиву елемент 'Попугай' і виведіть
+результат на екран (використовуйте методи <b>push()</b> і
+<b>unshift()</b>). </p>
+
+<p>5. Відсортуйте масив а за збільшенням і виведіть результат на екран (НЕ
+використовуйте метод <b>sort()</b>). </p>
+
 <script type="text/javascript">
+
 var country = ['Україна', 'Германія', 'Італія', 'Россия', 'Австралія',
 'Южна Амеріка', 'Євразія', 'Африка', 'Антарктида'];
+
 var animal = ['Лев', 'Тигр', 'Орел', 'Воробей', 'Снігур', 'Голуб',
 'Рись', 'Ведмідь'];
+
 var a = [1, 22, 10, 12, 5];
+
 var continent = country.splice(5, 4);
 document.write("continent: " + continent + "<br><br>");
+
 var bird = animal.splice(2, 4);
 document.write("bird: " + bird + "<br><br>");
+
 var contibird = continent.concat(bird);
 document.write("contibird: " + contibird + "<br><br>");
+
 contibird.unshift("Северная Амеріка");
 contibird.push("Попугай");
 document.write("Після додавання: " + contibird + "<br><br>");
+
 for (var i = 0; i < a.length - 1; i++) {
     for (var j = 0; j < a.length - 1 - i; j++) {
         if (a[j] > a[j + 1]) {
@@ -39,6 +67,7 @@ for (var i = 0; i < a.length - 1; i++) {
         }
     }
 }
+
 document.write("Відсортований масив a: " + a);
 </script>
 
