@@ -36,30 +36,37 @@ continent (використовуйте метод
 використовуйте метод <b>sort()</b>). </p>
 
 <script type="text/javascript">
-
-var country = ['Україна', 'Германія', 'Італія', 'Россия', 'Австралія',
-'Южна Амеріка', 'Євразія', 'Африка', 'Антарктида'];
-
-var animal = ['Лев', 'Тигр', 'Орел', 'Воробей', 'Снігур', 'Голуб',
-'Рись', 'Ведмідь'];
-
+var country = [
+    'Україна', 'Германія', 'Італія', 'Россия',
+    'Австралія', 'Южна Амеріка', 'Євразія', 'Африка', 'Антарктида'
+];
+var animal = [
+    'Лев', 'Тигр', 'Орел', 'Воробей',
+    'Снігур', 'Голуб', 'Рись', 'Ведмідь'
+];
 var a = [1, 22, 10, 12, 5];
 
-var continent = country.splice(5, 4);
-document.write("continent: " + continent + "<br><br>");
+// 1
+var continent = country.splice(0, country.length);
+document.write("<b>continent:</b> " + continent.join(", ") + "<br><br>");
 
+// 2
 var bird = animal.splice(2, 4);
-document.write("bird: " + bird + "<br><br>");
+document.write("<b>bird:</b> " + bird.join(", ") + "<br><br>");
 
+// 3
 var contibird = continent.concat(bird);
-document.write("contibird: " + contibird + "<br><br>");
+document.write("<b>contibird:</b> " + contibird.join(", ") + "<br><br>");
 
-contibird.unshift("Северная Амеріка");
+// 4
+contibird.unshift("Северная Америка");
 contibird.push("Попугай");
-document.write("Після додавання: " + contibird + "<br><br>");
+document.write("<b>Після unshift і push:</b><br>");
+document.write(contibird.join(", ") + "<br><br>");
 
-for (var i = 0; i < a.length - 1; i++) {
-    for (var j = 0; j < a.length - 1 - i; j++) {
+// 5
+for (var i = 0; i < a.length; i++) {
+    for (var j = 0; j < a.length - 1; j++) {
         if (a[j] > a[j + 1]) {
             var temp = a[j];
             a[j] = a[j + 1];
@@ -67,8 +74,7 @@ for (var i = 0; i < a.length - 1; i++) {
         }
     }
 }
-
-document.write("Відсортований масив a: " + a);
+document.write("<b>Відсортований масив a:</b> " + a.join(", "));
 </script>
 
 <br>
