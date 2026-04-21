@@ -1,38 +1,38 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: Звіт про помилку
+about: Створіть звіт, щоб допомогти нам покращити проєкт
+title: ""
+labels: ""
+assignees: ""
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Опис помилки
+Чіткий і короткий опис того, у чому полягає помилка.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Як відтворити
+Кроки для відтворення помилки:
+1. Перейдіть до '...'
+2. Натисніть на '...'
+3. Прокрутіть до '...'
+4. Побачите помилку
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Очікувана поведінка
+Чіткий і короткий опис того, що ви очікували побачити.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Скріншоти
+Якщо можливо, додайте скріншоти, щоб пояснити проблему.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Робоче середовище (будь ласка, заповніть):
+**ПК:**
+- ОС: [наприклад, Windows 10 / macOS / Linux]
+- Браузер: [наприклад, Chrome, Safari]
+- Версія: [наприклад, 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Смартфон:**
+- Пристрій: [наприклад, iPhone 6]
+- ОС: [наприклад, iOS 8.1]
+- Браузер: [наприклад, Safari]
+- Версія: [наприклад, 22]
 
-**Additional context**
-Add any other context about the problem here.
+## Додатковий контекст
+Додайте будь-яку іншу інформацію про проблему тут.
