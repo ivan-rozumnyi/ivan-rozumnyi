@@ -1,20 +1,19 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
+name: Запит на нову функцію
+about: Запропонуйте ідею для цього проєкту
+title: ""
+labels: ""
+assignees: ""
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Чи пов’язана ваша пропозиція з проблемою?
+Чіткий і короткий опис проблеми. Наприклад: мене завжди це дратує, коли [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Опишіть рішення, яке ви хотіли б бачити
+Чіткий і короткий опис того, що ви хочете, щоб сталося.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Опишіть альтернативи, які ви розглядали
+Чіткий і короткий опис будь-яких альтернативних рішень або функцій, які ви розглядали.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Додатковий контекст
+Додайте будь-який інший контекст, скріншоти або приклади щодо цієї ідеї.
