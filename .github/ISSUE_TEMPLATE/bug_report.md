@@ -1,9 +1,10 @@
 ---
 name: Звіт про помилку
 about: Створіть звіт, щоб допомогти нам покращити проєкт
-title: ""
-labels: ""
-assignees: ""
+title: Помилка
+labels: Помилка
+assignees: ivan-rozumnyi
+
 ---
 
 ## Опис помилки
