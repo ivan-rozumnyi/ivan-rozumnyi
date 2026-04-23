@@ -30,22 +30,16 @@ var animal = [
     'Лев', 'Тигр', 'Орел', 'Воробей',
     'Снігур', 'Голуб', 'Рись', 'Ведмідь'
 ];
-
 var a = [1, 22, 10, 12, 5];
-
 // 1
 var continent = country.splice(0, country.length);
-
 // 2
 var bird = animal.splice(2, 4);
-
 // 3
 var contibird = continent.concat(bird);
-
 // 4
 contibird.unshift("Северная Америка");
 contibird.push("Попугай");
-
 // 5
 for (var i = 0; i < a.length; i++) {
     for (var j = 0; j < a.length - 1; j++) {
@@ -56,7 +50,6 @@ for (var i = 0; i < a.length; i++) {
         }
     }
 }
-
 document.write("<b>continent:</b> " + continent.join(", ") + "<br>");
 document.write("<b>bird:</b> " + bird.join(", ") + "<br>");
 document.write("<b>contibird:</b> " + contibird.join(", ") + "<br>");
