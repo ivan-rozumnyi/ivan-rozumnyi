@@ -15,32 +15,39 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
-<p>Прапорці</p>
+<p>Анкета читателя</p>
 
 <script>
-function showChecked() {
-    let result = "";
-    if (document.form1.c1.checked)
-        result += "Варіант 1\n";
-    if (document.form1.c2.checked)
-        result += "Варіант 2\n";
-    if (document.form1.c3.checked)
-        result += "Варіант 3\n";
-    alert(result === "" ? "Нічого не вибрано" : result);
+var s = "Bac привлекает: \r\n"
+function set(vch) {
+s = s + vch + "\r\n";
+document.form1.area.value = s;
 }
 </script>
-</head>
 
-<body>
+<form name="form0">
+<h4>Введите название любимого журнала</h4>
+<input type="text" name="n1" size=45><br>
+
+</form>
 <form name="form1">
-<h3>Оберіть варіанти:</h3>
+<h4>Что Вас привлекает в издании?</h4>
+<table border=3 align=center>
+<tr>
+<td><input type="checkbox" name="m1" value="Стиль подачи материала"
 
-<input type="checkbox" name="c1"> Варіант 1<br>
-<input type="checkbox" name="c2"> Варіант 2<br>
-<input type="checkbox" name="c3"> Варіант 3<br><br>
+onClick="set(form1.elements[0].value);"> Стиль подачи материала<br>
+<input type="checkbox" name="m2" value="Достоверность информации"
 
-<input type="button" value="Показати"
-onclick="showChecked()">
+onClick="set(form1.elements[1].value);"> Достоверность информации<br>
+<input type="checkbox" name="m3" value="Дизайн и оформление"
+
+onClick="set(form1.elements[2].value);"> Дизайн и оформление<br>
+</td>
+</tr>
+</table>
+<textarea name="area" cols=35 rows=7> </textarea><br>
+<input type="reset" value="Отмена" onclick="s='Bac привлекает:\r\n'">
 </form>
 
 <br>

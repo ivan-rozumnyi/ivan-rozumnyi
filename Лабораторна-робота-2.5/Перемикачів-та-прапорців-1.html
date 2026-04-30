@@ -15,34 +15,34 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
-<p>Площа фігур</p>
+<p>Дані з форми типу перемикач</p>
 
-<script>
+<script language="JavaScript">
 function test(k) {
-    var a = document.form1.data.value;
-    if (a !== "" && !isNaN(a)) {
-        document.form1.res.value = k * Math.pow(a, 2);
-    } else {
-        alert("Введіть значення!");
-    }
+var a = form1.data.value
+if (a != "")
+form1.res.value = k * Math.pow(a, 2)
+else alert("Введите значение")
 }
 </script>
-</head>
 
-<body>
 <form name="form1">
-<h3>Обчислення площі фігур</h3>
+Введіть значення (довжина сторони, радіус)
+<input type="text" name="data" size=10>
+<hr>
+Вкажіть форму
+<br>
 
-Введіть значення:
-<input type="text" name="data"><br><br>
-
-Оберіть фігуру:<br>
-<input type="radio" name="fv" onclick="test(1)"> Квадрат<br>
-<input type="radio" name="fv" onclick="test(3.14)"> Коло<br>
-<input type="radio" name="fv" onclick="test(0.42)"> Трикутник<br><br>
-
-Площа:
-<input type="text" name="res">
+<input type="radio" name="fv" value=1
+onClick="test(form1.elements[1].value)">квадрат<br>
+<input type="radio" name="fv" value=3.14
+onClick="test(form1.elements[2].value)">коло<br>
+<input type="radio" name="fv" value=0.42
+onClick="test(form1.elements[3].value)">трикутник
+<hr>
+<input type="reset" value="0тменить">
+<hr>
+Площа: <input type="text" name="res" size=10>
 </form>
 
 <br>
