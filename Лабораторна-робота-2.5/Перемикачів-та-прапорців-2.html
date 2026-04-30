@@ -1,0 +1,56 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Перемикачів та прапорців No2</title>
+</head>
+<body bgcolor="#EEEEEE" text="black" link="blue">
+
+<h1 align="center">Перемикачів та прапорців No2</h1>
+<hr>
+
+<!-- главная картинка -->
+<p align="center">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
+</p>
+
+<p>Прапорці</p>
+
+<script>
+function showChecked() {
+    let result = "";
+    if (document.form1.c1.checked)
+        result += "Варіант 1\n";
+    if (document.form1.c2.checked)
+        result += "Варіант 2\n";
+    if (document.form1.c3.checked)
+        result += "Варіант 3\n";
+    alert(result === "" ? "Нічого не вибрано" : result);
+}
+</script>
+</head>
+
+<body>
+<form name="form1">
+<h3>Оберіть варіанти:</h3>
+
+<input type="checkbox" name="c1"> Варіант 1<br>
+<input type="checkbox" name="c2"> Варіант 2<br>
+<input type="checkbox" name="c3"> Варіант 3<br><br>
+
+<input type="button" value="Показати"
+onclick="showChecked()">
+</form>
+
+<br>
+<p align="center">
+    <a href="Перший-сценарій-сторінка">Повернутися на перемикачів та прапорців сторінку</a>
+</p>
+
+<p align="center">
+    <em>Ця сторінка для лабораторної роботи 2.5</em>
+</p>
+
+</body>
+</html>
