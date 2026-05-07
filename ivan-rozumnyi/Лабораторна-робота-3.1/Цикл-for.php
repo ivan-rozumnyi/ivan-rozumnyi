@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Цикл while</title>
+    <title>Цикл for</title>
 </head>
 <body bgcolor="#EEEEEE" text="black" link="blue">
 
-<h1 align="center">Цикл while</h1>
+<h1 align="center">Цикл for</h1>
 <hr>
 
 <!-- главная картинка -->
@@ -16,18 +16,16 @@
 </p>
 
 <?php
-$i = 1;
-while ($i <= 10) {
+for ($i = 0; $i <= 10; $i++) {
     if ($i % 2 == 0) {
         echo $i . "<br>";
     }
-    $i++;
 }
 ?>
 
 <br>
 <p align="center">
-    <a href="/lab3.1_php/Web-сервером-і-клієнтом-сторінка.php">Web сервером і клієнтом сторінку</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Web-сервером-і-клієнтом-сторінка.php">Web сервером і клієнтом сторінку</a>
 </p>
 
 <p align="center">

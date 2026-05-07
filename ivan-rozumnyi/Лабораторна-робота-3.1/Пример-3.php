@@ -12,17 +12,17 @@
 
 <!-- главная картинка -->
 <p align="center">
-    <img src="/lab3.1_php/картинки-для-сайта/картинка1.png" width="200">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
 <p>Площа та об’єм куба</p>
 
 <p>
-    <img src="/lab3.1_php/картинки-для-лаби-3.1/3.png" alt="3.png">
+    <img src="/ivan-rozumnyi/картинки-для-лаби-3.1/3.png" alt="3.png">
 </p>
 
 <p>
-    <img src="/lab3.1_php/картинки-для-лаби-3.1/3-3.png" alt="3-3.png">
+    <img src="/ivan-rozumnyi/картинки-для-лаби-3.1/3-3.png" alt="3-3.png">
 </p>
 
 <?php
@@ -37,7 +37,7 @@ echo "Об'єм = " . $volume;
 
 <br>
 <p align="center">
-    <a href="/lab3.1_php/Web-сервером-і-клієнтом-сторінка.php">Web сервером і клієнтом сторінку</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Web-сервером-і-клієнтом-сторінка.php">Web сервером і клієнтом сторінку</a>
 </p>
 
 <p align="center">

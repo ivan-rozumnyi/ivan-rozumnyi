@@ -12,7 +12,7 @@
 
 <!-- главная картинка -->
 <p align="center">
-    <img src="/lab3.1_php/картинки-для-сайта/картинка1.png" width="200">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
 <?php
@@ -34,7 +34,7 @@ switch ($day) {
 
 <br>
 <p align="center">
-    <a href="/lab3.1_php/Web-сервером-і-клієнтом-сторінка.php">Web сервером і клієнтом сторінку</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Web-сервером-і-клієнтом-сторінка.php">Web сервером і клієнтом сторінку</a>
 </p>
 
 <p align="center">

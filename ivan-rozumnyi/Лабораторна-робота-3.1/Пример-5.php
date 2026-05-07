@@ -12,13 +12,13 @@
 
 <!-- главная картинка -->
 <p align="center">
-    <img src="/lab3.1_php/картинки-для-сайта/картинка1.png" width="200">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
 <p>Таблиця множення</p>
 
 <p>
-    <img src="/lab3.1_php/картинки-для-лаби-3.1/5.png" alt="5.png">
+    <img src="/ivan-rozumnyi/картинки-для-лаби-3.1/5.png" alt="5.png">
 </p>
 
 <?php
@@ -32,7 +32,7 @@ for ($i = 1; $i <= 10; $i++) {
 
 <br>
 <p align="center">
-    <a href="/lab3.1_php/Web-сервером-і-клієнтом-сторінка.php">Web сервером і клієнтом сторінку</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Web-сервером-і-клієнтом-сторінка.php">Web сервером і клієнтом сторінку</a>
 </p>
 
 <p align="center">
