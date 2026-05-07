@@ -82,7 +82,7 @@
 
 <br>
 <p align="center">
-    <a href="/ivan-rozumnyi/">Повернутися на головний сайт</a>
+    <a href="https://ivan-rozumnyi.github.io/ivan-rozumnyi/">Повернутися на головний сайт</a>
 </p>
 
 <p align="center">
