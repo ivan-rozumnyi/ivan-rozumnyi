@@ -1,0 +1,37 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Оператор continue</title>
+</head>
+<body bgcolor="#EEEEEE" text="black" link="blue">
+
+<h1 align="center">Оператор continue</h1>
+<hr>
+
+<!-- главная картинка -->
+<p align="center">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
+</p>
+
+<?php
+for ($i = 0; $i <= 10; $i++) {
+    if ($i % 2 == 0) {
+        continue;
+    }
+    echo $i . "<br>";
+}
+?>
+
+<br>
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Web-сервером-і-клієнтом-сторінка.php">Web сервером і клієнтом сторінку</a>
+</p>
+
+<p align="center">
+    <em>Ця сторінка для лабораторної роботи 3.2</em>
+</p>
+
+</body>
+</html>
