@@ -17,67 +17,67 @@
 
 <!-- центр меню -->
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Web-сервером-і-клієнтом-1.php">Web сервером і клієнтом 1</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Web-сервером-і-клієнтом-1.php">Web сервером і клієнтом 1</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Оператор-break.php">Оператор break</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Оператор-break.php">Оператор break</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Оператор-continue.php">Оператор continue</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Оператор-continue.php">Оператор continue</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Оператор-elseif.php">Оператор elseif</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Оператор-elseif.php">Оператор elseif</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Оператор-if...else.php">Оператор if...else</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Оператор-if...else.php">Оператор if...else</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Оператор-if.php">Оператор if</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Оператор-if.php">Оператор if</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Оператор-switch.php">Оператор switch</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Оператор-switch.php">Оператор switch</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Цикл-do...while.php">Цикл do...while</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Цикл-do...while.php">Цикл do...while</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Цикл-for.php">Цикл for</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Цикл-for.php">Цикл for</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Цикл-while.php">Цикл while</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Цикл-while.php">Цикл while</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Пример.php">Пример</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Пример.php">Пример</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Пример-2.php">Пример 2</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Пример-2.php">Пример 2</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Пример-3.php">Пример 3</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Пример-3.php">Пример 3</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Пример-4.php">Пример 4</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Пример-4.php">Пример 4</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Пример-5.php">Пример 5</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Пример-5.php">Пример 5</a>
 </p>
 
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.1/Пример-6.php">Пример 6</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Пример-6.php">Пример 6</a>
 </p>
 
 <br>

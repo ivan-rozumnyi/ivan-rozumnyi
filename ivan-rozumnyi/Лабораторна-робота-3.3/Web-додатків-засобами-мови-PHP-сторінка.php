@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Web сервером і клієнтом сторінка</title>
+    <title>Web додатків засобами мови PHP сторінка</title>
 </head>
 <body bgcolor="#EEEEEE" text="black" link="blue">
 
-<h1 align="center">Web сервером і клієнтом сторінка</h1>
+<h1 align="center">Web додатків засобами мови PHP сторінка</h1>
 <hr>
 
 <!-- главная картинка -->
@@ -17,7 +17,7 @@
 
 <!-- центр меню -->
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Web-сервером-і-клієнтом-1.php">Web сервером і клієнтом 1</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Web-додатків-засобами-мови-PHP-1.php">Web додатків засобами мови PHP 1</a>
 </p>
 
 <br>
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-    <em>Ця сторінка для лабораторної роботи 3.4</em>
+    <em>Ця сторінка для лабораторної роботи 3.3</em>
 </p>
 
 </body>
