@@ -20,6 +20,54 @@
     <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Web-додатків-засобами-мови-PHP-1.php">Web додатків засобами мови PHP 1</a>
 </p>
 
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Аналіз-числа.php">Аналіз числа</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Реєстраційна-форма.php">Реєстраційна форма</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Тест-зі-списками.php">Тест зі списками</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Браузер.php">Браузер</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Операційна-система.php">Операційна система</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Визначення-мови.php">Визначення мови</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/По-зростанню.php">По зростанню</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/По-спаданню.php">По спаданню</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Арифметичне-і-максимум.php">Арифметичне і максимум</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Елементів-і-мінімум.php">Елементів і мінімум</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Зворотний-зв’язок.php">Зворотний зв’язок</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Обробник-файлу.php">Обробник файлу</a>
+</p>
+
 <br>
 <p align="center">
     <a href="https://ivan-rozumnyi.github.io/ivan-rozumnyi/">Повернутися на головний сайт</a>

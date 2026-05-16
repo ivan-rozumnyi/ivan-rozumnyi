@@ -15,9 +15,44 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
+<form method="POST">
+    Число 1:
+    <input type="text" name="a"><br><br>
+    Число 2:
+    <input type="text" name="b"><br><br>
+    Операція:
+    <select name="op">
+        <option value="+">+</option>
+        <option value="-">-</option>
+        <option value="*">*</option>
+        <option value="/">/</option>
+    </select><br><br>
+    <input type="submit" value="Обчислити">
+</form>
+
 <?php
-$todaysdate = date("d") . "-" . date("m") . "-" . date("Y");
-echo $todaysdate;
+if ($_POST) {
+    $a = $_POST["a"];
+    $b = $_POST["b"];
+    $op = $_POST["op"];
+    switch ($op) {
+        case "+":
+            echo "Результат: " . ($a + $b);
+            break;
+        case "-":
+            echo "Результат: " . ($a - $b);
+            break;
+        case "*":
+            echo "Результат: " . ($a * $b);
+            break;
+        case "/":
+            if ($b == 0)
+                echo "Ділення на нуль неможливе!";
+            else
+                echo "Результат: " . ($a / $b);
+            break;
+    }
+}
 ?>
 
 <br>
