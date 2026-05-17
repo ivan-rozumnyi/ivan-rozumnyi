@@ -15,13 +15,14 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
-<p align="center">
-    <a href="http://localhost/ivan-rozumnyi/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-3.2/Web-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BE%D0%BC-%D1%96-%D0%BA%D0%BB%D1%96%D1%94%D0%BD%D1%82%D0%BE%D0%BC-1.php">Web сервером і клієнтом 1</a>
-</p>
+<?php
+$todaysdate = date("d") . "-" . date("m") . "-" . date("Y");
+echo $todaysdate;
+?>
 
 <br>
 <p align="center">
-    <a href="Web-сервером-і-клієнтом-сторінка">Web сервером і клієнтом сторінку</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.2/Web-сервером-і-клієнтом-сторінка.php">Web сервером і клієнтом сторінку</a>
 </p>
 
 <p align="center">
