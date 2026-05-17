@@ -20,6 +20,34 @@
     <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Робота-з-масивами-даних-1.php">Робота з масивами даних 1</a>
 </p>
 
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Учнів-класу.php">Учнів класу</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Сортування-друзів.php">Сортування друзів</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Сортування-друзів-1.php">Сортування друзів No1</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Продукції-фірми.php">Продукції фірми</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Музични-творі.php">Музични творі</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Розкладу-занять.php">Розкладу занять</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Бібліотека.php">Бібліотека</a>
+</p>
+
 <br>
 <p align="center">
     <a href="https://ivan-rozumnyi.github.io/ivan-rozumnyi/">Повернутися на головний сайт</a>
