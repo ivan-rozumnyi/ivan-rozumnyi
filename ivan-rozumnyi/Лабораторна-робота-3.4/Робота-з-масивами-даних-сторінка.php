@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Web сервером і клієнтом сторінка</title>
+    <title>Робота з масивами даних сторінка</title>
 </head>
 <body bgcolor="#EEEEEE" text="black" link="blue">
 
-<h1 align="center">Web сервером і клієнтом сторінка</h1>
+<h1 align="center">Робота з масивами даних сторінка</h1>
 <hr>
 
 <!-- главная картинка -->
@@ -17,7 +17,7 @@
 
 <!-- центр меню -->
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Web-сервером-і-клієнтом-1.php">Web сервером і клієнтом 1</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Робота-з-масивами-даних-1.php">Робота з масивами даних 1</a>
 </p>
 
 <br>

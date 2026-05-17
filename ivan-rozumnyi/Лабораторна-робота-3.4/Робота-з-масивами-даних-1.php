@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Web сервером і клієнтом No1</title>
+    <title>Робота з масивами даних No1</title>
 </head>
 <body bgcolor="#EEEEEE" text="black" link="blue">
 
-<h1 align="center">Web сервером і клієнтом No1</h1>
+<h1 align="center">Робота з масивами даних No1</h1>
 <hr>
 
 <!-- главная картинка -->
@@ -15,14 +15,11 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
-<?php
-$todaysdate = date("d") . "-" . date("m") . "-" . date("Y");
-echo $todaysdate;
-?>
+
 
 <br>
 <p align="center">
-    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Web-сервером-і-клієнтом-сторінка.php">Web сервером і клієнтом сторінку</a>
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Робота-з-масивами-даних-сторінка.php">Робота з масивами даних сторінку</a>
 </p>
 
 <p align="center">
