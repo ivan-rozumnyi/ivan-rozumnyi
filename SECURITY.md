@@ -7,6 +7,9 @@
 |:-------:|:---------------:|
 | index | :white_check_mark: Так |
 | main | :white_check_mark: Так |
+| v0 | :white_check_mark: Так |
+| v1 | :white_check_mark: Так |
+| xampp | :white_check_mark: Так |
 
 ## Повідомлення про вразливість
 Якщо ви знайшли проблему або вразливість у цьому проєкті, будь ласка, створіть Issue у репозиторії.
