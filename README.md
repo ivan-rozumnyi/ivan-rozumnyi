@@ -24,15 +24,15 @@
 - [w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
 
 ## Лекції для навчання
-- [Лекція 1.1](https://github.com/ivan-rozumnyi/ivan-rozumnyi/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%201.1.pdf)
-- [Лекція 1.2](https://github.com/ivan-rozumnyi/ivan-rozumnyi/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%201.2.pdf)
-- [Лекція 1.3](https://github.com/ivan-rozumnyi/ivan-rozumnyi/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%201.3.pdf)
-- [Лекція 2.1](https://github.com/ivan-rozumnyi/ivan-rozumnyi/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%202.1.pdf)
-- [Лекція 2.2](https://github.com/ivan-rozumnyi/ivan-rozumnyi/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%202.2.pdf)
-- [Лекція 2.3](https://github.com/ivan-rozumnyi/ivan-rozumnyi/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%202.3.pdf)
-- [Лекція 3.1](https://github.com/ivan-rozumnyi/ivan-rozumnyi/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%203.1.pdf)
-- [Лекція 3.2](https://github.com/ivan-rozumnyi/ivan-rozumnyi/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%203.2.pdf)
-- [Лекція 3.3](https://github.com/ivan-rozumnyi/ivan-rozumnyi/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%203.3.pdf)
+- [Лекція 1.1](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%201.1.pdf)
+- [Лекція 1.2](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%201.2.pdf)
+- [Лекція 1.3](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%201.3.pdf)
+- [Лекція 2.1](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%202.1.pdf)
+- [Лекція 2.2](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%202.2.pdf)
+- [Лекція 2.3](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%202.3.pdf)
+- [Лекція 3.1](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%203.1.pdf)
+- [Лекція 3.2](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%203.2.pdf)
+- [Лекція 3.3](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%203.3.pdf)
 
 ## MIT Ліцензія
 Авторські права (c) 2026 Ivan Rozumnyi  
