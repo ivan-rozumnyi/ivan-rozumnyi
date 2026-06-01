@@ -9,7 +9,7 @@
 | main | :white_check_mark: Так |
 | v0 | :white_check_mark: Так |
 | v1 | :white_check_mark: Так |
-| v2 | :x: Ні |
+| v2 | :negative_squared_cross_mark: Ні |
 | xampp | :white_check_mark: Так |
 
 ## Повідомлення про вразливість
