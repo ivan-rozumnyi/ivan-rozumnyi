@@ -16,8 +16,14 @@
 </p>
 
 <?php
-$todaysdate = date("d") . "-" . date("m") . "-" . date("Y");
-echo $todaysdate;
+$x = 10;
+$y = 5;
+echo "x = $x <br>";
+echo "y = $y <br><br>";
+echo "Сума = " . ($x + $y) . "<br>";
+echo "Різниця = " . ($x - $y) . "<br>";
+echo "Добуток = " . ($x * $y) . "<br>";
+echo "Частка = " . ($x / $y) . "<br>";
 ?>
 
 <br>
