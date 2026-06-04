@@ -15,7 +15,17 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка3.png" width="200">
 </p>
 
+<?php
+$file = "text.txt";
+$symbol = "а";
 
+$text = file_get_contents($file);
+$text = str_replace($symbol, "", $text);
+
+file_put_contents($file, $text);
+
+echo $text;
+?>
 
 <br>
 <p align="center">
