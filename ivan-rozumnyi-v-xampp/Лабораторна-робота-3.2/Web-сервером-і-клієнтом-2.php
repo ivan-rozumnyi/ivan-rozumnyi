@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Web сервером і клієнтом No1</title>
+    <title>Web сервером і клієнтом No2</title>
 </head>
 <body bgcolor="#EEEEEE" text="black" link="blue">
 
-<h1 align="center">Web сервером і клієнтом No1</h1>
+<h1 align="center">Web сервером і клієнтом No2</h1>
 <hr>
 
 <!-- главная картинка -->
