@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Пример No5</title>
+    <title>Web сервером і клієнтом No1</title>
 </head>
 <body bgcolor="#EEEEEE" text="black" link="blue">
 
-<h1 align="center">Пример No5</h1>
+<h1 align="center">Web сервером і клієнтом No1</h1>
 <hr>
 
 <!-- главная картинка -->
@@ -15,19 +15,17 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
-<p>Таблиця множення</p>
-
-<p>
-    <img src="/ivan-rozumnyi/картинки-для-лаби-3.2/5.png" alt="5.png">
-</p>
-
 <?php
-for ($i = 1; $i <= 10; $i++) {
-    for ($j = 1; $j <= 10; $j++) {
-        echo $i . " * " . $j . " = " . ($i * $j) . "<br>";
-    }
-    echo "<br>";
+$a = 10;
+$n = 4;
+$P = $a;
+for ($i = 1; $i <= $n; $i++)
+{
+    $P *= ($a - $i * $n);
 }
+echo "a = $a <br>";
+echo "n = $n <br><br>";
+echo "P = $P";
 ?>
 
 <br>

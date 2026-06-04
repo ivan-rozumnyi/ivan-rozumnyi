@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Пример No6</title>
+    <title>Web сервером і клієнтом No1</title>
 </head>
 <body bgcolor="#EEEEEE" text="black" link="blue">
 
-<h1 align="center">Пример No6</h1>
+<h1 align="center">Web сервером і клієнтом No1</h1>
 <hr>
 
 <!-- главная картинка -->
@@ -15,23 +15,27 @@
     <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
 </p>
 
-<p>Таблиця множення</p>
-
-<p>
-    <img src="/ivan-rozumnyi/картинки-для-лаби-3.2/6.png" alt="6.png">
-</p>
-
-<p>Функція	Опис</p>
-<p>abs()	Модуль числа</p>
-<p>sqrt()	Квадратний корінь</p>
-<p>pow()	Піднесення до степеня</p>
-<p>round()	Округлення</p>
-<p>max()	Максимум</p>
-<p>min()	Мінімум</p>
-<p>rand()	Випадкове число</p>
-<p>sin()	Синус</p>
-<p>cos()	Косинус</p>
-<p>tan()	Тангенс</p>
+<?php
+$m = 8;
+$n = 12;
+echo "До змін:<br>";
+echo "m = $m <br>";
+echo "n = $n <br><br>";
+if ($m != $n)
+{
+    $max = max($m, $n);
+    $m = $max;
+    $n = $max;
+}
+else
+{
+    $m = 0;
+    $n = 0;
+}
+echo "Після змін:<br>";
+echo "m = $m <br>";
+echo "n = $n <br>";
+?>
 
 <br>
 <p align="center">
