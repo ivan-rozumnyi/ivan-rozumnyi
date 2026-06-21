@@ -1,5 +1,7 @@
 /* цвет сайта */ /* фон сайта */ /* переход цвет ссилки сайта */
-body {
+
+
+/* body {
     background-image: url("/ivan-rozumnyi/картинки-тестова-структура-сайта/test.png");
 
     background-color: rgb(121, 121, 121);
@@ -13,53 +15,71 @@ body {
     text-align: center;
 
     color: black;
-}
+} */
 
 /* фон сайта */
-html, body {
+
+
+/* html, body {
     height: 100%;
     margin: 0;
-}
+} */
 
 /* цвет для текста ссилок */
-a {
+
+
+/* a {
     color: blue;
-}
+} */
 
 /* цвет для текста */
-em {
+
+
+/* em {
     color: purple;
-}
+} */
 
 /* цвет для текста и фон текста*/
-h2 {
+
+
+/* h2 {
     color: aqua; 
     background-color: black
-}
+} */
 
 /* цвет для текста */
-.text-test {
+
+
+/* .text-test {
     color: red;
-}
+} */
 
 /* цвет для текста */
-.text-test1 {
+
+
+/* .text-test1 {
     color: brown;
-}
+} */
 
 /* цвет для текста */
-p {
+
+
+/* p {
     color: greenyellow;
-}
+} */
 
 /* цвет для текста */
-footer {
+
+
+/* footer {
     color: pink;
-}
+} */
 
 /* текст в справа для перехода */
-.right{
+
+
+/* .right{
     text-align: right;
-}
+} */
 
 /* конец структури сайта */
