@@ -1,0 +1,7 @@
+[
+  {"cnum": 2001, "cname": "Hoffman", "city": "London", "rating": 100, "snum": 1001},
+  {"cnum": 2006, "cname": "Clemens", "city": "London", "rating": 100, "snum": 1001},
+  {"cnum": 2003, "cname": "Liu", "city": "San Jose", "rating": 200, "snum": 1002},
+  {"cnum": 2004, "cname": "Grass", "city": "Berlin", "rating": 300, "snum": 1002},
+  {"cnum": 2007, "cname": "Pereira", "city": "Rome", "rating": 300, "snum": 1004}
+]
