@@ -1,0 +1,65 @@
+/* цвет сайта */ /* фон сайта */ /* переход цвет ссилки сайта */
+body {
+    background-image: url("/ivan-rozumnyi/картинки-тестова-структура-сайта/test.png");
+
+    background-color: rgb(121, 121, 121);
+
+    background-repeat: no-repeat;
+
+    background-position: center;
+
+    background-size: cover;
+
+    text-align: center;
+
+    color: black;
+}
+
+/* фон сайта */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/* цвет для текста ссилок */
+a {
+    color: blue;
+}
+
+/* цвет для текста */
+em {
+    color: purple;
+}
+
+/* цвет для текста и фон текста*/
+h2 {
+    color: aqua; 
+    background-color: black
+}
+
+/* цвет для текста */
+.text-test {
+    color: red;
+}
+
+/* цвет для текста */
+.text-test1 {
+    color: brown;
+}
+
+/* цвет для текста */
+p {
+    color: greenyellow;
+}
+
+/* цвет для текста */
+footer {
+    color: pink;
+}
+
+/* текст в справа для перехода */
+.right{
+    text-align: right;
+}
+
+/* конец структури сайта */
