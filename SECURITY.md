@@ -9,8 +9,9 @@
 | main | :white_check_mark: Так |
 | v0 | :white_check_mark: Так |
 | v1 | :white_check_mark: Так |
-| v2 | :negative_squared_cross_mark: Ні |
+| v2 | :white_check_mark: Так |
 | xampp | :white_check_mark: Так |
+| v | :negative_squared_cross_mark: Ні |
 
 ## Повідомлення про вразливість
 Якщо ви знайшли проблему або вразливість у цьому проєкті, будь ласка, створіть Issue у репозиторії.
