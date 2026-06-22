@@ -1,0 +1,64 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Перемикачів та прапорців No2</title>
+</head>
+<body bgcolor="#EEEEEE" text="black" link="blue">
+
+<h1 align="center">Перемикачів та прапорців No2</h1>
+<hr>
+
+<!-- главная картинка -->
+<p align="center">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка3.png" width="200">
+</p>
+
+<p>Анкета читателя</p>
+
+<script>
+var s = "Bac привлекает: \r\n"
+function set(vch) {
+s = s + vch + "\r\n";
+document.form1.area.value = s;
+}
+</script>
+
+<form name="form0">
+<h4>Введите название любимого журнала</h4>
+<input type="text" name="n1" size=45><br>
+</form>
+
+<form name="form1">
+<h4>Что Вас привлекает в издании?</h4>
+<table border=3 align=center>
+<tr>
+<td><input type="checkbox" name="m1" value="Стиль подачи материала"
+
+onClick="set(form1.elements[0].value);"> Стиль подачи материала<br>
+<input type="checkbox" name="m2" value="Достоверность информации"
+
+onClick="set(form1.elements[1].value);"> Достоверность информации<br>
+<input type="checkbox" name="m3" value="Дизайн и оформление"
+
+onClick="set(form1.elements[2].value);"> Дизайн и оформление<br>
+</td>
+</tr>
+</table>
+<textarea name="area" cols=35 rows=7> </textarea>
+<br>
+<input type="reset" value="Отмена" onclick="s='Bac привлекает:\r\n'">
+</form>
+
+<br>
+<p align="center">
+    <a href="Перемикачів-та-прапорців-сторінка">Повернутися на перемикачів та прапорців сторінку</a>
+</p>
+
+<p align="center">
+    <em>Ця сторінка для лабораторної роботи 2.5</em>
+</p>
+
+</body>
+</html>

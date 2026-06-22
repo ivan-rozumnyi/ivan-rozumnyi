@@ -1,0 +1,31 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Сторінку не знайдено</title>
+</head>
+
+<!-- цвет сайта -->
+<body bgcolor="#EEEEEE" text="black" link="blue">
+
+<h1 align="center">Сторінку не знайдено</h1>
+<hr>
+
+<!-- главная картинка -->
+<p align="center">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
+</p>
+
+<!-- права сайта и кто сделал -->
+<br>
+<p align="center">Сторінка зроблена в 2026 (Розумним Іваном) – група 355</p>
+
+<p align="center">(Останнє оновлення було в квітень 2026)</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/">Повернутися на головний сайт</a>
+</p>
+
+</body>
+</html>
