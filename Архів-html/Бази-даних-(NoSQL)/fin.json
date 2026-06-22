@@ -1,0 +1,5 @@
+{"_id":{"$oid":"6a2fa26beb263d2f658c9aa4"},"code":"TST","budget":5000}
+{"_id":{"$oid":"6a2fa415eb263d2f658c9aa5"},"code":"MAP","budget":12000}
+{"_id":{"$oid":"6a2fa542eb263d2f658c9aa6"},"code":"WEB","budget":45000}
+{"_id":{"$oid":"6a2fa772eb263d2f658c9aa7"},"code":"ONE","budget":1000}
+{"_id":{"$oid":"6a2fa939eb263d2f658c9aaa"},"code":"TAG","budget":5000}
