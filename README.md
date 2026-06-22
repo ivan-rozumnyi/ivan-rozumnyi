@@ -2,27 +2,27 @@
 - [css.in.ua/html/tags](https://css.in.ua/html/tags)
 - [css.in.ua/css/properties](https://css.in.ua/css/properties)
 - [css.in.ua/js/objects](https://css.in.ua/js/objects)
-
+- - - -
 - [html-css.co.ua/dovidnuk-html-tags/](https://html-css.co.ua/dovidnuk-html-tags/)
 - [html-css.co.ua/dovidnuk-css-atrubytiv/](https://html-css.co.ua/dovidnuk-css-atrubytiv/)
-
+- - - -
 - [htmlcheatsheet.com/css](https://htmlcheatsheet.com/css)
 - [htmlcheatsheet.com/js](https://htmlcheatsheet.com/js)
-
+- - - -
 - [w3schoolsua.github.io/html/index](https://w3schoolsua.github.io/html/index)
 - [w3schoolsua.github.io/css/index](https://w3schoolsua.github.io/css/index)
 - [w3schoolsua.github.io/js/index](https://w3schoolsua.github.io/js/index)
 - [w3schoolsua.github.io/colors/colors_picker](http://w3schoolsua.github.io/colors/colors_picker)
-
+- - - -
 - [html-css-js.com/html](https://html-css-js.com/html)
 - [html-css-js.com/css](https://html-css-js.com/css)
 - [html-css-js.com/js](https://html-css-js.com/js)
-
+- - - -
 - [w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
 - [w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
 - [w3schools.com/java/default.asp](https://www.w3schools.com/java/default.asp)
 - [w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
-
+- - - -
 - [divtable.com/table-styler](https://divtable.com/table-styler)
 - [divtable.com/generator](https://divtable.com/generator)
 
@@ -30,11 +30,11 @@
 - [Лекція 1.1](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%201.1.pdf)
 - [Лекція 1.2](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%201.2.pdf)
 - [Лекція 1.3](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%201.3.pdf)
-
+- - - -
 - [Лекція 2.1](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%202.1.pdf)
 - [Лекція 2.2](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%202.2.pdf)
 - [Лекція 2.3](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%202.3.pdf)
-
+- - - -
 - [Лекція 3.1](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%203.1.pdf)
 - [Лекція 3.2](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%203.2.pdf)
 - [Лекція 3.3](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%203.3.pdf)
