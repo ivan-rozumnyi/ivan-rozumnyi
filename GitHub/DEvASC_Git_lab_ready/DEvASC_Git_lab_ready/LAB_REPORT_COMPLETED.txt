@@ -1,0 +1,78 @@
+git config --global user.name "ivan-rozumnyi"
+git config --global user.email "rashizragoreyoutubb@gmail.com"
+mkdir git-intro
+cd git-intro
+git init
+git status
+
+echo "I am on my way to passing the Cisco DEVASC exam" > DEVASC.txt
+cat DEVASC.txt
+git status
+git add DEVASC.txt
+git status
+git commit -m "Committing DEVASC.txt to begin tracking changes"
+git log
+
+echo "I am beginning to understand Git!" >> DEVASC.txt
+cat DEVASC.txt
+git status
+git add DEVASC.txt
+git commit -m "Added additional line to file"
+git log
+git diff <ID_первого_коммита> <ID_последнего_коммита>
+
+git branch feature
+git branch
+git checkout feature
+echo "This text was added originally while in the feature branch" >> DEVASC.txt
+git add DEVASC.txt
+git status
+git commit -m "Added a third line in feature branch"
+git log
+git checkout master
+git branch
+git merge feature
+cat DEVASC.txt
+git branch
+git branch -d feature
+
+git branch test
+git checkout test
+
+sed -i 's/Cisco/NetAcad/' DEVASC.txt
+git commit -a -m "Change Cisco to NetAcad"
+
+git checkout master
+sed -i 's/Cisco/DevNet/' DEVASC.txt
+git commit -a -m "Changed Cisco to DevNet"
+
+git merge test
+
+I am on my way to passing the DevNet DEVASC exam
+
+git add DEVASC.txt
+git commit -a -m "Manually merged from test branch"
+git log
+
+I am on my way to passing the DevNet DEVASC exam
+I am beginning to understand Git!
+This text was added originally while in the feature branch
+
+Repository name: devasc-study-team
+Description: Working together to pass the DEVASC exam
+Visibility: Private
+
+cd ~/labs/devnet-src/git-intro
+mkdir devasc-study-team
+cd devasc-study-team
+cp ../DEVASC.txt .
+git init
+git config --global user.name "ivan-rozumnyi"
+git config --global user.email "rashizragoreyoutubb@gmail.com"
+git remote add origin https://github.com/ivan-rozumnyi/devasc-study-team.git
+git remote -v
+git add DEVASC.txt
+git commit -m "Add DEVASC.txt file to devasc-study-team"
+git log
+git status
+git push -u origin master

@@ -1,0 +1,57 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Перемикачів та прапорців No1</title>
+</head>
+<body bgcolor="#EEEEEE" text="black" link="blue">
+
+<h1 align="center">Перемикачів та прапорців No1</h1>
+<hr>
+
+<!-- главная картинка -->
+<p align="center">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка3.png" width="200">
+</p>
+
+<p>Дані з форми типу перемикач</p>
+
+<script language="JavaScript">
+function test(k) {
+var a = form1.data.value
+if (a != "")
+form1.res.value = k * Math.pow(a, 2)
+else alert("Введите значение")
+}
+</script>
+
+<form name="form1">
+Введіть значення (довжина сторони, радіус)
+<input type="text" name="data" size=10>
+<hr>
+Вкажіть форму<br>
+
+<input type="radio" name="fv" value=1
+onClick="test(form1.elements[1].value)">квадрат<br>
+<input type="radio" name="fv" value=3.14
+onClick="test(form1.elements[2].value)">коло<br>
+<input type="radio" name="fv" value=0.42
+onClick="test(form1.elements[3].value)">трикутник
+<hr>
+<input type="reset" value="0тменить">
+<hr>
+Площа: <input type="text" name="res" size=10>
+</form>
+
+<br>
+<p align="center">
+    <a href="Перемикачів-та-прапорців-сторінка">Повернутися на перемикачів та прапорців сторінку</a>
+</p>
+
+<p align="center">
+    <em>Ця сторінка для лабораторної роботи 2.5</em>
+</p>
+
+</body>
+</html>

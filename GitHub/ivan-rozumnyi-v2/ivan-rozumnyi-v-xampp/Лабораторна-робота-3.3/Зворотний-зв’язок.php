@@ -1,0 +1,57 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Зворотний зв’язок</title>
+</head>
+<body bgcolor="#EEEEEE" text="black" link="blue">
+
+<h1 align="center">Зворотний зв’язок</h1>
+<hr>
+
+<!-- главная картинка -->
+<p align="center">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
+</p>
+
+<p>Зворотний зв’язок</p>
+
+<form method="POST">
+Ім'я:<br>
+<input type="text" name="name"><br><br>
+Email:<br>
+<input type="text" name="email"><br><br>
+Повідомлення:<br>
+<textarea name="message"></textarea><br><br>
+<input type="submit" value="Відправити">
+</form>
+
+<?php
+if ($_POST) {
+    $name = $_POST["name"];
+    $email = $_POST["email"];
+    $message = $_POST["message"];
+    if ($name == "" || $email == "" || $message == "") {
+        echo "Заповніть усі поля!";
+    } else {
+        $to = "rashizragoreyoutubb@gmail.com";
+        $subject = "Повідомлення із сайту";
+        $headers = "From: $email";
+        mail($to, $subject, $message, $headers);
+        echo "Повідомлення успішно відправлено!";
+    }
+}
+?>
+
+<br>
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Web-додатків-засобами-мови-PHP-сторінка.php">Web додатків засобами мови PHP сторінку</a>
+</p>
+
+<p align="center">
+    <em>Ця сторінка для лабораторної роботи 3.3</em>
+</p>
+
+</body>
+</html>
