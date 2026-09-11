@@ -1,0 +1,61 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Робота з масивами даних сторінка</title>
+</head>
+<body bgcolor="#EEEEEE" text="black" link="blue">
+
+<h1 align="center">Робота з масивами даних сторінка</h1>
+<hr>
+
+<!-- главная картинка -->
+<p align="center">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
+</p>
+
+<!-- центр меню -->
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Робота-з-масивами-даних-1.php">Робота з масивами даних 1</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Учнів-класу.php">Учнів класу</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Сортування-друзів.php">Сортування друзів</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Сортування-друзів-1.php">Сортування друзів No1</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Продукції-фірми.php">Продукції фірми</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Музични-творі.php">Музични творі</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Розкладу-занять.php">Розкладу занять</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.4/Бібліотека.php">Бібліотека</a>
+</p>
+
+<br>
+<p align="center">
+    <a href="https://ivan-rozumnyi.github.io/ivan-rozumnyi/">Повернутися на головний сайт</a>
+</p>
+
+<p align="center">
+    <em>Ця сторінка для лабораторної роботи 3.4</em>
+</p>
+
+</body>
+</html>

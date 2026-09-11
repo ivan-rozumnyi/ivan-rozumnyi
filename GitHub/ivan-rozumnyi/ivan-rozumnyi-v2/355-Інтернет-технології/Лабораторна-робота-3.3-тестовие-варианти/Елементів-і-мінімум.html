@@ -1,0 +1,50 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Елементів і мінімум</title>
+</head>
+<body bgcolor="#EEEEEE" text="black" link="blue">
+
+<h1 align="center">Елементів і мінімум</h1>
+<hr>
+
+<!-- главная картинка -->
+<p align="center">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка3.png" width="200">
+</p>
+
+<p>Елементів і мінімум</p>
+
+<form method="POST">
+<?php
+for ($i = 0; $i < 5; $i++) {
+    echo "<input type='text' name='numbers[]'><br>";
+}
+?>
+<br>
+<input type="submit">
+</form>
+
+<?php
+if ($_POST) {
+    $arr = $_POST["numbers"];
+    $sum = array_sum($arr);
+    $min = min($arr);
+    echo "Сума елементів: $sum <br>";
+    echo "Мінімальний елемент: $min";
+}
+?>
+
+<br>
+<p align="center">
+    <a href="Web-додатків-засобами-мови-PHP-сторінка">Web додатків засобами мови PHP сторінку</a>
+</p>
+
+<p align="center">
+    <em>Ця сторінка для лабораторної роботи 3.3</em>
+</p>
+
+</body>
+</html>

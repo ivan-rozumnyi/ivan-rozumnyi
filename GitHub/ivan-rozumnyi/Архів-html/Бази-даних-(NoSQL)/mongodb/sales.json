@@ -1,0 +1,7 @@
+[
+ { "snum": 1001, "sname": "Peel", "city": "London", "comm": 0.12 },
+ { "snum": 1002, "sname": "Serres", "city": "San Jose", "comm": 0.13 },
+ { "snum": 1004, "sname": "Motika", "city": "London", "comm": 0.11 },
+ { "snum": 1007, "sname": "Rifkin", "city": "Barcelona", "comm": 0.15 },
+ { "snum": 1003, "sname": "Axelrod", "city": "New York", "comm": 0.10 }
+]

@@ -1,0 +1,49 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Web додатків засобами мови PHP сторінка</title>
+</head>
+<body bgcolor="#EEEEEE" text="black" link="blue">
+
+<h1 align="center">Web додатків засобами мови PHP сторінка</h1>
+<hr>
+
+<!-- главная картинка -->
+<p align="center">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка1.png" width="200">
+</p>
+
+<!-- центр меню -->
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Web-додатків-засобами-мови-PHP-1.php">Web додатків засобами мови PHP 1</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Браузер.php">Браузер</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/По-спаданню.php">По спаданню</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Зворотний-зв’язок.php">Зворотний зв’язок</a>
+</p>
+
+<p align="center">
+    <a href="/ivan-rozumnyi/Лабораторна-робота-3.3/Обробник-файлу.php">Обробник файлу</a>
+</p>
+
+<br>
+<p align="center">
+    <a href="https://ivan-rozumnyi.github.io/ivan-rozumnyi/">Повернутися на головний сайт</a>
+</p>
+
+<p align="center">
+    <em>Ця сторінка для лабораторної роботи 3.3</em>
+</p>
+
+</body>
+</html>
