@@ -1,0 +1,9 @@
+4edf7c9 (HEAD -> master) Manually merged from test branch
+f58891e (test) Change Cisco to NetAcad
+77294f6 Changed Cisco to DevNet
+1a8e67e Added a third line in feature branch
+b314d41 Added additional line to file
+e0b72dc Committing DEVASC.txt to begin tracking changes
+
+On branch master
+nothing to commit, working tree clean
