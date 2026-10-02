@@ -1,0 +1,56 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Реєстраційна форма</title>
+</head>
+<body bgcolor="#EEEEEE" text="black" link="blue">
+
+<h1 align="center">Реєстраційна форма</h1>
+<hr>
+
+<!-- главная картинка -->
+<p align="center">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка3.png" width="200">
+</p>
+
+<p>Реєстраційна форма</p>
+
+<form method="POST">
+    Ім'я:
+    <input type="text" name="name"><br><br>
+    Email:
+    <input type="text" name="email"><br><br>
+    <input type="submit" value="Зареєструватися">
+</form>
+
+<?php
+if ($_POST) {
+    $name = $_POST["name"];
+    $email = $_POST["email"];
+    $errors = "";
+    if (strlen($name) > 10)
+        $errors .= "Ім'я більше 10 символів<br>";
+    if (substr_count($email, "@") != 1)
+        $errors .= "Email повинен містити @<br>";
+    if (substr_count($email, ".") < 2)
+        $errors .= "Email повинен містити мінімум 2 точки<br>";
+    if ($errors == "")
+        echo "Реєстрація успішна!";
+    else
+        echo $errors;
+}
+?>
+
+<br>
+<p align="center">
+    <a href="Web-додатків-засобами-мови-PHP-сторінка">Web додатків засобами мови PHP сторінку</a>
+</p>
+
+<p align="center">
+    <em>Ця сторінка для лабораторної роботи 3.3</em>
+</p>
+
+</body>
+</html>

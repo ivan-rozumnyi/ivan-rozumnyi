@@ -1,0 +1,55 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Тест зі списками</title>
+</head>
+<body bgcolor="#EEEEEE" text="black" link="blue">
+
+<h1 align="center">Тест зі списками</h1>
+<hr>
+
+<!-- главная картинка -->
+<p align="center">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка3.png" width="200">
+</p>
+
+<p>Тест зі списками</p>
+
+<form method="POST">
+    PHP це:
+    <select name="q1">
+        <option value="0">Мова програмування</option>
+        <option value="1">Браузер</option>
+    </select><br><br>
+    HTML це:
+    <select name="q2">
+        <option value="0">Мова розмітки</option>
+        <option value="1">Операційна система</option>
+    </select><br><br>
+    <input type="submit" value="Перевірити">
+</form>
+
+<?php
+if ($_POST) {
+    $score = 0;
+    if ($_POST["q1"] == 0)
+        $score++;
+    if ($_POST["q2"] == 0)
+        $score++;
+    echo "Правильних відповідей: $score";
+}
+?>
+
+<br>
+<p align="center">
+    <a href="Web-додатків-засобами-мови-PHP-сторінка">Web додатків засобами мови PHP сторінку</a>
+</p>
+
+<p align="center">
+    <em>Ця сторінка для лабораторної роботи 3.3</em>
+</p>
+
+</body>
+</html>

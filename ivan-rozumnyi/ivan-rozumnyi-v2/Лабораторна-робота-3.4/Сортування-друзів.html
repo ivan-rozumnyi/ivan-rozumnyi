@@ -1,0 +1,47 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Сортування друзів</title>
+</head>
+<body bgcolor="#EEEEEE" text="black" link="blue">
+
+<h1 align="center">Сортування друзів</h1>
+<hr>
+
+<!-- главная картинка -->
+<p align="center">
+    <img src="/ivan-rozumnyi/картинки-для-сайта/картинка3.png" width="200">
+</p>
+
+<p>Сортування друзів</p>
+
+<?php
+$friends = array(
+    array("Прізвище" => "Петренко", "Вік" => 22, "Місто" => "Львів"),
+    array("Прізвище" => "Розумний", "Вік" => 20, "Місто" => "Кривий Ріг"),
+    array("Прізвище" => "Сидоренко", "Вік" => 24, "Місто" => "Дніпро")
+);
+usort($friends, function($a, $b) {
+    return strcmp($a["Прізвище"], $b["Прізвище"]);
+});
+echo "<h3>Список друзів:</h3>";
+foreach ($friends as $friend) {
+    echo $friend["Прізвище"] . " - ";
+    echo $friend["Вік"] . " років - ";
+    echo $friend["Місто"] . "<br>";
+}
+?>
+
+<br>
+<p align="center">
+    <a href="Робота-з-масивами-даних-сторінка">Робота з масивами даних сторінку</a>
+</p>
+
+<p align="center">
+    <em>Ця сторінка для лабораторної роботи 3.4</em>
+</p>
+
+</body>
+</html>
