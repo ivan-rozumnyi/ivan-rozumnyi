@@ -48,7 +48,3 @@
 - [Лекція 3.2](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%203.2.pdf)
 - [Лекція 3.3](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%203.3.pdf)
 <br><br>
-
-## Політика безпеки
-- Підтримується тільки остання версія проєкту.  
-- Проблеми або вразливості повідомляйте через [Issue](https://github.com/ivan-rozumnyi/ivan-rozumnyi/issues/new).
