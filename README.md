@@ -32,6 +32,7 @@
 - [divtable.com/table-styler](https://divtable.com/table-styler)
 - [divtable.com/generator](https://divtable.com/generator)
 <br><br>
+<<<<<<< HEAD
 
 ## Лекції для навчання
 - [Лекція 1.1](https://ivan-rozumnyi.github.io/ivan-rozumnyi/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%201.1.pdf)
