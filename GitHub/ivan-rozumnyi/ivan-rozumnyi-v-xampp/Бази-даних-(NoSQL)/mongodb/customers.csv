@@ -1,4 +1,0 @@
-cnum.int32(),cname.string(),city.string(),rating.int32(),snum.int32()
-2001,Hoffman,London,100,1001
-2002,Giovanni,Rome,200,1003
-2003,Liu,SanJose,200,1002
